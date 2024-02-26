@@ -10,7 +10,7 @@ Instituto de Alta Investigación\
 Universidad de Tarapacá\
 Providencia, Chile
 
-My work focuses on relational relational reasoning and generalization in humans and artificial intelligence systems. I study these issues through experiments with humans and simulations with computational models of the cognitive processes involved in these tasks. Lately, my work as focused on exploring the relational reasoning capabilities of deep neural networks. 
+My work focuses on relational reasoning and generalization in humans and artificial intelligence systems. I study these issues through experiments with humans and simulations with computational models of the cognitive processes involved in these tasks. Lately, my work as focused on exploring the relational reasoning capabilities of deep neural networks. 
 
 Furthermore, I have a longstanding interest in the psychology of concepts. In collaboration with [Sergio Chaigneau](https://pure.uai.cl/en/persons/sergio-e-chaigneau) and [Nicolás Marchant](https://cscn.uai.cl/equipo/nicolas-marchant-ahumada/) I research the influence of causal knowledge on categorization.
 
