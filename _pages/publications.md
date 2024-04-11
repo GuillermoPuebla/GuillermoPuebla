@@ -6,6 +6,8 @@ layout: default
 
 ## Preprints
 
+Biscione, V., Yin, D., Malhotra, G., Dujmovic, M., Montero, M.L., Puebla, G., Adolfi, F., Heaton, R.F., Hummel, J.E., Evans, B.D. and Habashy, K. (2024). MindSet: Vision. A toolbox for testing DNNs on key psychological experiments. [arXiv](https://arxiv.org/abs/2404.05290)
+
 Puebla G. & Bowers, J. S. (2024). Visual Reasoning in Object-Centric Deep Neural Networks: A Comparative Cognition Approach. [arXiv](https://arxiv.org/abs/2402.12675)
 
 Puebla G. & Doumas, L. A. A. (2022). Learning Relational Rules from Rewards. [arXiv](https://arxiv.org/abs/2203.13599)
