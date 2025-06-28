@@ -6,6 +6,10 @@ layout: default
 
 ## Preprints
 
+Bowers, J. S., Puebla, S., Guillermo Thorat, Tsetsos, K. & Ludwig, C. J. (2025). Centaur: A model without a theory. [PsyArXiv](https://osf.io/preprints/psyarxiv/v9w37_v1)
+
+Puebla, G., Perez-Zapata, D., Ferrer, R., Sepúlveda-Páez, G., Alarcón-Castillo, K. & Elgueta, H. (2025). Cognitive Load and Individual Differences as Drivers of Health-Related Misinformation: A Signal Detection Approach. [PsyArXiv](https://osf.io/preprints/psyarxiv/yhk7e_v3)
+
 Biscione, V., Yin, D., Malhotra, G., Dujmovic, M., Montero, M.L., Puebla, G., Adolfi, F., Heaton, R.F., Hummel, J.E., Evans, B.D. and Habashy, K. (2024). MindSet: Vision. A toolbox for testing DNNs on key psychological experiments. [arXiv](https://arxiv.org/abs/2404.05290)
 
 Puebla G. & Doumas, L. A. A. (2022). Learning Relational Rules from Rewards. [arXiv](https://arxiv.org/abs/2203.13599)
@@ -37,6 +41,8 @@ Chaigneau S. E. & Puebla, G. (2013). The Proper Function of Artifacts: Intention
 
 
 ## Conference proceedings
+
+Marchant, N., Puebla, G., Quillien, T. & Chaigneau, S. E. (2024). Rationally uncertain: investigating deviations from Explaining Away and Screening Off in causal reasoning. *Proceedings of the Annual Meeting of the Cognitive Science Society,* 46.[pdf](assets/pdf/CogSci_uncertain.pdf)
 
 Biscione V., Yin, D., Malhotra, G., Dujmović, M., Montero, M. L., Puebla, G., Adolfi, F. G., Tsvetkov, C., Heaton, R. F., Hummel, J., Evans, B. D. & Bowers, J. S. (2023). Introducing the MindSet benchmark for comparing DNNs to human vision. *2023 Conference on Cognitive Computational Neuroscience*. [pdf](assets/pdf/CCN_MindSet.pdf)
 
