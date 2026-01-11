@@ -6,7 +6,7 @@ layout: default
 
 <img src="assets/images/profile_big.jpeg" alt="drawing" width="220"/>\
 Assistant Professor\
-Facultad de Administración y Economía\
+Escuela de Administración y Negocios \
 Universidad de Tarapacá\
 Providencia, Chile
 

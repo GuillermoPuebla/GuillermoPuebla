@@ -6,14 +6,21 @@ layout: default
 
 ## Preprints
 
-Biscione, V., Yin, D., Malhotra, G., Dujmovic, M., Montero, M.L., Puebla, G., Adolfi, F., Heaton, R.F., Hummel, J.E., Evans, B.D. and Habashy, K. (2024). MindSet: Vision. A toolbox for testing DNNs on key psychological experiments. [arXiv](https://arxiv.org/abs/2404.05290)
+Puebla G. & Doumas, L. A. A. (2025). Learning Relational Rules from Rewards. [arXiv](https://arxiv.org/abs/2203.13599)
 
-Puebla G. & Doumas, L. A. A. (2022). Learning Relational Rules from Rewards. [arXiv](https://arxiv.org/abs/2203.13599)
+Bowers, J. S., Puebla, S., Guillermo Thorat, Tsetsos, K. & Ludwig, C. J. (2025). On the misuse of LLMs as models of mind: A case study of Centaur. [PsyArXiv](https://osf.io/preprints/psyarxiv/v9w37_v4) 
+
+Puebla, G., Perez-Zapata, D., Ferrer, R., Sepúlveda-Páez, G., Alarcón-Castillo, K. & Elgueta, H. (2025). Cognitive Load and Individual Differences as Drivers of Health-Related Misinformation: A Signal Detection Approach. [PsyArXiv](https://osf.io/preprints/psyarxiv/yhk7e_v3)
+
+Biscione, V., Yin, D., Malhotra, G., Dujmovic, M., Montero, M.L., Puebla, G., Adolfi, F., Heaton, R.F., Hummel, J.E., Evans, B.D. and Habashy, K. (2024). MindSet: Vision. A toolbox for testing DNNs on key psychological experiments. [arXiv](https://arxiv.org/abs/2404.05290)
 
 
 ## Journal articles
 
 Puebla G. & Bowers, J. S. (2025). Visual Reasoning in Object-Centric Deep Neural Networks: A Comparative Cognition Approach. *Neural Networks, 189,* 107582 [journal](https://doi.org/10.1016/j.neunet.2025.107582) 
+
+
+Marchant, N., Puebla, G. & Chaigneau, S. E. (2025). Rules in the mist: Emerging probabilistic rules in uncertain categorization. *Cognition, 264*,* 106264. [journal (open access)](https://doi.org/10.1016/j.cognition.2025.106264)
 
 Fong F. T. K., Puebla, G.& Nielsen, M. (2024). The Role of Conventionality and Design in Children’s Function Judgments About Malfunctioning Artifacts. *Journal of Experimental Child Psychology, 240,* 105835. [journal (open access)](https://doi.org/10.1016/j.jecp.2023.105835)
 
