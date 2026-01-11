@@ -20,7 +20,7 @@ Biscione, V., Yin, D., Malhotra, G., Dujmovic, M., Montero, M.L., Puebla, G., Ad
 Puebla G. & Bowers, J. S. (2025). Visual Reasoning in Object-Centric Deep Neural Networks: A Comparative Cognition Approach. *Neural Networks, 189,* 107582 [journal](https://doi.org/10.1016/j.neunet.2025.107582) 
 
 
-Marchant, N., Puebla, G. & Chaigneau, S. E. (2025). Rules in the mist: Emerging probabilistic rules in uncertain categorization. *Cognition, 264*,* 106264. [journal (open access)](https://doi.org/10.1016/j.cognition.2025.106264)
+Marchant, N., Puebla, G. & Chaigneau, S. E. (2025). Rules in the mist: Emerging probabilistic rules in uncertain categorization. *Cognition, 264,* 106264. [journal (open access)](https://doi.org/10.1016/j.cognition.2025.106264)
 
 Fong F. T. K., Puebla, G.& Nielsen, M. (2024). The Role of Conventionality and Design in Children’s Function Judgments About Malfunctioning Artifacts. *Journal of Experimental Child Psychology, 240,* 105835. [journal (open access)](https://doi.org/10.1016/j.jecp.2023.105835)
 
