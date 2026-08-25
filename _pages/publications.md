@@ -4,25 +4,30 @@ layout: default
 
 <h1 style="color: #cc0000;">Publications</h1>
 
-## Preprints
+## Preprints & in preparation
 
-Puebla G. & Doumas, L. A. A. (2025). Learning Relational Rules from Rewards. [arXiv](https://arxiv.org/abs/2203.13599)
+Puebla, G., Yamamoto, A., & Vergara, J. (2026). Conversational Framing Modulates LLMs’ Misinformation Detection. In preparation. [pdf](assets/pdf/misinformation_LLMs.pdf)
 
-Bowers, J. S., Puebla, S., Guillermo Thorat, Tsetsos, K. & Ludwig, C. J. (2025). On the misuse of LLMs as models of mind: A case study of Centaur. [PsyArXiv](https://osf.io/preprints/psyarxiv/v9w37_v4) 
+Bowers, J. S., Puebla, S., Guillermo Thorat, Tsetsos, K. & Ludwig, C. J. (2026). On the misuse of LLMs as models of mind: A case study of Centaur. [PsyArXiv](https://osf.io/preprints/psyarxiv/v9w37_v4) 
 
-Puebla, G., Perez-Zapata, D., Ferrer, R., Sepúlveda-Páez, G., Alarcón-Castillo, K. & Elgueta, H. (2025). Cognitive Load and Individual Differences as Drivers of Health-Related Misinformation: A Signal Detection Approach. [PsyArXiv](https://osf.io/preprints/psyarxiv/yhk7e_v3)
+Bowers, J., Vankov, I., Adolfi, F., Heaton, R., & Puebla, G. What have we learned about human reasoning from large reasoning models? Response to de Varda et al. [PsyArXiv](https://doi.org/10.31234/osf.io/3ef2x_v1) 
 
 Biscione, V., Yin, D., Malhotra, G., Dujmovic, M., Montero, M.L., Puebla, G., Adolfi, F., Heaton, R.F., Hummel, J.E., Evans, B.D. and Habashy, K. (2024). MindSet: Vision. A toolbox for testing DNNs on key psychological experiments. [arXiv](https://arxiv.org/abs/2404.05290)
+
+Puebla G. & Doumas, L. A. A. (2025). Learning Relational Rules from Rewards. [arXiv](https://arxiv.org/abs/2203.13599)
 
 
 ## Journal articles
 
-Puebla G. & Bowers, J. S. (2025). Visual Reasoning in Object-Centric Deep Neural Networks: A Comparative Cognition Approach. *Neural Networks, 189,* 107582 [journal](https://doi.org/10.1016/j.neunet.2025.107582) 
+Puebla, G., Perez-Zapata, D., Ferrer, R., Sepúlveda-Páez, G., Alarcón-Castillo, K. & Elgueta, H. (2026). Cognitive Load and Individual Differences as Drivers of Health-Related Misinformation: A Signal Detection Approach. Accepted at PLOS One [pdf](assets/pdf/health_misinformation_PLOS_final.pdf)
 
+Vankov, I. I., Adolfi, F., Heaton, R. F., Puebla, G., & Bowers, J. S. (2026). Correlations without causation do not support claims of human–LLM reasoning alignment. Proceedings of the National Academy of Sciences, 123(12), e2536362123. [journal](https://doi.org/10.1073/pnas.2536362123) 
+
+Puebla G. & Bowers, J. S. (2025). Visual Reasoning in Object-Centric Deep Neural Networks: A Comparative Cognition Approach. *Neural Networks, 189,* 107582 [journal](https://doi.org/10.1016/j.neunet.2025.107582) 
 
 Marchant, N., Puebla, G. & Chaigneau, S. E. (2025). Rules in the mist: Emerging probabilistic rules in uncertain categorization. *Cognition, 264,* 106264. [journal](https://doi.org/10.1016/j.cognition.2025.106264)
 
-Fong F. T. K., Puebla, G.& Nielsen, M. (2024). The Role of Conventionality and Design in Children’s Function Judgments About Malfunctioning Artifacts. *Journal of Experimental Child Psychology, 240,* 105835. [journal (open access)](https://doi.org/10.1016/j.jecp.2023.105835)
+Fong F. T. K., Puebla, G. & Nielsen, M. (2024). The Role of Conventionality and Design in Children’s Function Judgments About Malfunctioning Artifacts. *Journal of Experimental Child Psychology, 240,* 105835. [journal (open access)](https://doi.org/10.1016/j.jecp.2023.105835)
 
 Bowers J. S., Malhotra, G., Adolfi, F. G., Dujmović, M., Montero, M. L., Biscione, V., Puebla, G., Hummel, J. & Heaton, R. F. (2023). On the importance of severely testing deep learning models of cognition. *Cognitive Systems Research, 82,* 101158. [journal](https://doi.org/10.1016/j.cogsys.2023.101158)
 
@@ -45,8 +50,9 @@ Chaigneau S. E. & Puebla, G. (2013). The Proper Function of Artifacts: Intention
 
 ## Conference proceedings
 
-Biscione V., Yin, D., Malhotra, G., Dujmović, M., Montero, M. L., Puebla, G., Adolfi, F. G., Tsvetkov, C., Heaton, R. F., Hummel, J., Evans, B. D. & Bowers, J. S. (2023). Introducing the MindSet benchmark for comparing DNNs to human vision. *2023 Conference on Cognitive Computational Neuroscience*. [pdf](assets/pdf/CCN_MindSet.pdf)
+Puebla, G., Diaz-Ramirez, J., Araya, D., Fuentes, G., & Bowers, J. S. (2026). Unlearnability of Symmetry-based Visual Relations by Deep Neural Networks. 9th Annual Conference on Cognitive Computational Neuroscience. [pdf](assets/pdf/285_Unlearnability_of_Symmetry.pdf)
 
+Biscione V., Yin, D., Malhotra, G., Dujmović, M., Montero, M. L., Puebla, G., Adolfi, F. G., Tsvetkov, C., Heaton, R. F., Hummel, J., Evans, B. D. & Bowers, J. S. (2023). Introducing the MindSet benchmark for comparing DNNs to human vision. *2023 Conference on Cognitive Computational Neuroscience*. [pdf](assets/pdf/CCN_MindSet.pdf)
 
 Puebla G. & Bowers, J. S. (2023). The role of object-centric representations, guided attention, and external memory on generalizing visual relations. *2023 Conference on Cognitive Computational Neuroscience*. [pdf](assets/pdf/CCN_object_centric.pdf)
 
